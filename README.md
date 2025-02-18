@@ -1,1 +1,1 @@
-Git repository containing python scripts for Basta & Campbell et. al. 2025
+Git repository containing Tn-seq analysis scripts for Basta & Campbell et. al. 2025.
